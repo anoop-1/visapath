@@ -11,7 +11,10 @@ export const revalidate = 604800;
 // Generate all available pair pages at build time
 export async function generateStaticParams() {
   const slugs = getAvailablePairSlugs();
-  return slugs.map(pair => ({ pair }));
+  return slugs.map(pair => ({ pair }
+
+// Allow dynamic pages not in generateStaticParams
+export const dynamicParams = true;));
 }
 
 // Dynamic metadata for SEO
@@ -191,7 +194,7 @@ export default function VisaPairPage({ params }) {
             {/* Application Steps */}
             {pair.steps?.length > 0 && (
               <div className="bg-white rounded-xl border border-gray-200 p-6 mb-8">
-                <h2>How to Apply — Step by Step</h2>
+                <h2>How to Apply â Step by Step</h2>
                 <ol>
                   {pair.steps.map((step, i) => (
                     <li key={i}><strong>Step {i + 1}:</strong> {step}</li>
@@ -202,7 +205,7 @@ export default function VisaPairPage({ params }) {
                     <p className="text-sm text-blue-800">
                       <strong>Apply Online:</strong>{' '}
                       <a href={pair.eVisaUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-600">
-                        Official eVisa Portal →
+                        Official eVisa Portal â
                       </a>
                     </p>
                   </div>
@@ -220,7 +223,7 @@ export default function VisaPairPage({ params }) {
                 <ul className="space-y-2">
                   {pair.tips.map((tip, i) => (
                     <li key={i} className="text-amber-800 flex gap-2">
-                      <span className="shrink-0">💡</span>
+                      <span className="shrink-0">ð¡</span>
                       <span>{tip}</span>
                     </li>
                   ))}
@@ -304,7 +307,7 @@ export default function VisaPairPage({ params }) {
 
             {/* Last Updated */}
             <p className="text-xs text-gray-400 mt-4">
-              Last updated: {pair.lastUpdated}. Information may change — always verify with the official embassy.
+              Last updated: {pair.lastUpdated}. Information may change â always verify with the official embassy.
             </p>
 
             {/* Footer Ad */}
@@ -349,7 +352,7 @@ export default function VisaPairPage({ params }) {
                   rel="noopener noreferrer"
                   className="mt-4 block w-full text-center bg-brand-600 text-white py-2.5 rounded-lg font-semibold text-sm hover:bg-brand-700 transition-colors"
                 >
-                  Apply for eVisa →
+                  Apply for eVisa â
                 </a>
               )}
             </div>
