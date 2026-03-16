@@ -8,14 +8,16 @@ import { AD_CONFIG } from '@/lib/ads';
 // ISR: Regenerate every 7 days
 export const revalidate = 604800;
 
-// Generate all available pair pages at build time
+// Pre-render top 500 pages at build time, rest via ISR on first visit
 export async function generateStaticParams() {
-  const slugs = getAvailablePairSlugs();
-  return slugs.map(pair => ({ pair }
+    const slugs = getAvailablePairSlugs();
+    // Only pre-render first 500 to keep build time under Vercel limits
+    // Remaining 37K+ pages generate on first visit via ISR
+    return slugs.slice(0, 500).map(pair => ({ pair }));
+}
 
 // Allow dynamic pages not in generateStaticParams
-export const dynamicParams = true;));
-}
+export const dynamicParams = true;
 
 // Dynamic metadata for SEO
 export async function generateMetadata({ params }) {
