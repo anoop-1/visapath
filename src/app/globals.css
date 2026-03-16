@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+@layer components {
+  .prose-visa h2 {
+    @apply text-xl font-bold text-gray-900 mt-8 mb-4;
+  }
+  .prose-visa h3 {
+    @apply text-lg font-semibold text-gray-800 mt-6 mb-3;
+  }
+  .prose-visa p {
+    @apply text-gray-700 leading-relaxed mb-4;
+  }
+  .prose-visa ul {
+    @apply list-disc pl-5 space-y-2 mb-4;
+  }
+  .prose-visa li {
+    @apply text-gray-700;
+  }
+  .prose-visa ol {
+    @apply list-decimal pl-5 space-y-2 mb-4;
+  }
+}

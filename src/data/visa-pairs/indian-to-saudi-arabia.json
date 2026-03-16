@@ -1,0 +1,79 @@
+{
+  "from": "IN",
+  "to": "SA",
+  "slug": "indian-to-saudi-arabia",
+  "lastUpdated": "2026-03-01",
+  "visaRequired": true,
+  "visaType": "eVisa (Tourist / Business Visit)",
+  "stayDuration": "Up to 90 days per entry (multiple entry, valid 1 year)",
+  "processingTime": "5-30 minutes (eVisa), 3-5 business days (embassy)",
+  "visaFee": "SAR 480 (~USD $128) including insurance",
+  "eVisaAvailable": true,
+  "eVisaUrl": "https://visa.visitsaudi.com",
+  "summary": "Indian passport holders need a visa to visit Saudi Arabia. Since September 2019, Saudi Arabia offers an electronic visa (eVisa) for tourism that can be obtained online in minutes. The eVisa is a multiple-entry visa valid for one year, allowing stays of up to 90 days per visit. For work, Hajj, or Umrah, separate visa categories apply.",
+  "requirements": [
+    "Valid Indian passport (minimum 6 months validity)",
+    "Recent digital passport photo (white background)",
+    "Valid email address for eVisa delivery",
+    "Credit or debit card for payment",
+    "Confirmed hotel booking or accommodation details",
+    "Return flight ticket",
+    "Travel medical insurance (included in eVisa fee)"
+  ],
+  "steps": [
+    "Visit the official Saudi eVisa portal (visa.visitsaudi.com)",
+    "Select 'Tourist eVisa' and choose Indian nationality",
+    "Fill in personal details matching your passport exactly",
+    "Upload a digital passport photo",
+    "Pay the visa fee (SAR 480 / ~USD $128)",
+    "Receive your eVisa via email within minutes",
+    "Print the eVisa or save it on your phone",
+    "Present eVisa at the Saudi port of entry"
+  ],
+  "tips": [
+    "The eVisa is the fastest and easiest option — avoid middlemen agencies",
+    "Dress modestly when in Saudi Arabia as per local customs",
+    "The eVisa does NOT cover Hajj or Umrah — those require separate religious visas",
+    "Alcohol is prohibited in Saudi Arabia",
+    "Weekend is Friday-Saturday in Saudi Arabia, plan business meetings accordingly"
+  ],
+  "commonReasons": [
+    "Tourism (NEOM, AlUla, Riyadh, Jeddah)",
+    "Business meetings",
+    "Umrah (requires separate religious visa)",
+    "Hajj (requires separate religious visa)",
+    "Transit",
+    "Visiting family (work visa holders' dependents)"
+  ],
+  "embassyInfo": {
+    "name": "Royal Embassy of Saudi Arabia in New Delhi",
+    "address": "D 12/1, Vasant Vihar, New Delhi 110057",
+    "phone": "+91-11-4674-4100",
+    "website": "https://www.saudiembassy.in/",
+    "vfsLocations": ["New Delhi", "Mumbai", "Hyderabad", "Chennai", "Kolkata"]
+  },
+  "faqs": [
+    {
+      "question": "Can Indian citizens get a visa on arrival in Saudi Arabia?",
+      "answer": "Not exactly visa on arrival, but the eVisa process is almost instant. You apply online and receive approval within minutes, then present it upon arrival. There's no need to visit an embassy."
+    },
+    {
+      "question": "Is Saudi Arabia safe for Indian tourists?",
+      "answer": "Yes, Saudi Arabia has a very low crime rate and is generally safe for tourists. The country has invested heavily in tourism infrastructure since Vision 2030. Standard travel precautions apply."
+    },
+    {
+      "question": "Can women travel alone to Saudi Arabia?",
+      "answer": "Yes, women can travel solo to Saudi Arabia. Since 2019, women over 21 can obtain a tourist visa and travel independently without a male guardian."
+    },
+    {
+      "question": "Do I need a separate visa for Umrah?",
+      "answer": "Yes, the tourist eVisa does not cover Umrah or Hajj. You need to apply for a specific Umrah visa through an authorized travel agent or the Nusuk platform."
+    }
+  ],
+  "relatedPairs": ["indian-to-uae", "indian-to-qatar", "indian-to-oman", "indian-to-bahrain"],
+  "seo": {
+    "title": "India to Saudi Arabia Visa 2026 | eVisa for Indian Passport Holders",
+    "description": "How to get a Saudi Arabia visa for Indian citizens. Instant eVisa available online. Requirements, fees (SAR 480), processing time, and complete application guide for 2026.",
+    "keywords": ["india to saudi arabia visa", "saudi evisa for indians", "saudi tourist visa india", "saudi arabia visa requirements indian passport"]
+  }
+}

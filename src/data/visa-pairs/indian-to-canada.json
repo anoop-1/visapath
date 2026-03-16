@@ -1,0 +1,85 @@
+{
+  "from": "IN",
+  "to": "CA",
+  "slug": "indian-to-canada",
+  "lastUpdated": "2026-03-01",
+  "visaRequired": true,
+  "visaType": "Temporary Resident Visa (TRV)",
+  "stayDuration": "Up to 6 months per entry",
+  "processingTime": "4-8 weeks (online), 6-12 weeks (paper)",
+  "visaFee": "CAD $100 (single entry), CAD $100 (multiple entry)",
+  "eVisaAvailable": true,
+  "eVisaUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+  "summary": "Indian passport holders need a visa to visit Canada. You can apply online through IRCC for a Temporary Resident Visa (TRV), which allows stays of up to 6 months. Processing typically takes 4-8 weeks when applied online. A valid passport, proof of funds, travel itinerary, and ties to your home country are required.",
+  "requirements": [
+    "Valid Indian passport (minimum 6 months beyond planned stay)",
+    "Completed IMM 5257 application form",
+    "Two recent passport-sized photographs (35mm x 45mm)",
+    "Proof of financial support (bank statements for last 4 months, minimum CAD $10,000 recommended)",
+    "Travel itinerary and round-trip flight reservation",
+    "Letter of invitation (if visiting family/friends)",
+    "Proof of ties to India (employment letter, property documents)",
+    "Travel insurance (recommended, not mandatory)",
+    "Biometrics (fingerprints and photo at a VAC)"
+  ],
+  "steps": [
+    "Create an account on the IRCC online portal (canada.ca)",
+    "Complete the IMM 5257 application form",
+    "Upload all required documents as PDFs",
+    "Pay the visa fee (CAD $100) and biometrics fee (CAD $85) online",
+    "Book a biometrics appointment at the nearest VFS Global center in India",
+    "Attend biometrics appointment with passport and appointment letter",
+    "Wait for processing (track status online via your IRCC account)",
+    "Once approved, your passport will be stamped or you'll receive a COPR",
+    "Travel to Canada within the validity period"
+  ],
+  "tips": [
+    "Apply at least 3 months before your planned travel date",
+    "Show strong ties to India — employment, property, family",
+    "Bank balance alone isn't enough; show consistent income over 6 months",
+    "If you've traveled to the US, UK, or Schengen countries before, mention it — it helps",
+    "Consider applying for a 10-year multiple-entry visa if you plan to visit often"
+  ],
+  "commonReasons": [
+    "Tourism and sightseeing",
+    "Visiting family or friends",
+    "Business meetings and conferences",
+    "Medical treatment",
+    "Transit through Canada"
+  ],
+  "embassyInfo": {
+    "name": "High Commission of Canada in New Delhi",
+    "address": "7/8, Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91-11-4178-2000",
+    "website": "https://www.canada.ca/en/immigration-refugees-citizenship.html",
+    "vfsLocations": ["New Delhi", "Mumbai", "Bangalore", "Chennai", "Kolkata", "Hyderabad", "Chandigarh", "Jalandhar"]
+  },
+  "faqs": [
+    {
+      "question": "Can I work in Canada with a visitor visa?",
+      "answer": "No, a Temporary Resident Visa (visitor visa) does not permit you to work in Canada. You would need a separate work permit for employment."
+    },
+    {
+      "question": "How long can I stay in Canada on a visitor visa?",
+      "answer": "Typically up to 6 months. The exact duration is determined by the border officer upon entry. You can apply for an extension if needed before your authorized stay expires."
+    },
+    {
+      "question": "Do I need a visa if I'm just transiting through Canada?",
+      "answer": "If you hold an Indian passport, yes — you need either a transit visa or an eTA. If you have a valid US visa or green card and are transiting through a Canadian airport, you may qualify for the Transit Without Visa program."
+    },
+    {
+      "question": "What is the visa refusal rate for Indian applicants?",
+      "answer": "Canada's overall visitor visa refusal rate fluctuates but has been around 30-40% for Indian applicants. Strong documentation of ties to India and financial stability significantly improves approval chances."
+    },
+    {
+      "question": "Can I apply for a Canada visa from a country other than India?",
+      "answer": "Yes, you can apply from any country where you are legally residing. However, processing times and requirements may vary. Applying from your home country is generally recommended."
+    }
+  ],
+  "relatedPairs": ["indian-to-usa", "indian-to-uk", "indian-to-australia", "indian-to-uae"],
+  "seo": {
+    "title": "India to Canada Visa Requirements 2026 | Indian Passport Holders Guide",
+    "description": "Complete guide for Indian passport holders traveling to Canada. Visa requirements, application process, documents needed, processing time, fees, and expert tips for 2026.",
+    "keywords": ["india to canada visa", "indian passport canada visa", "canada visitor visa for indians", "canada trv requirements", "indian canada visa 2026"]
+  }
+}

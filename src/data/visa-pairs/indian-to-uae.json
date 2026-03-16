@@ -1,0 +1,78 @@
+{
+  "from": "IN",
+  "to": "AE",
+  "slug": "indian-to-uae",
+  "lastUpdated": "2026-03-01",
+  "visaRequired": true,
+  "visaType": "Tourist Visa (30-day or 90-day)",
+  "stayDuration": "30 days (extendable) or 90 days (multiple entry)",
+  "processingTime": "3-5 business days (standard), 24 hours (express)",
+  "visaFee": "AED 350 (~USD $95) for 30-day, AED 650 (~USD $177) for 90-day",
+  "eVisaAvailable": true,
+  "eVisaUrl": "https://www.icp.gov.ae/en/",
+  "summary": "Indian passport holders require a visa to enter the UAE. Tourist visas can be applied for through airlines (Emirates, Etihad, flydubai), authorized travel agencies, or UAE-based sponsors. The 30-day tourist visa is the most common. If you hold a valid US visa, UK visa, EU residence permit, or Green Card, you may be eligible for a visa on arrival for 14 days.",
+  "requirements": [
+    "Valid Indian passport (minimum 6 months validity)",
+    "Passport-size color photograph (white background)",
+    "Confirmed return flight ticket",
+    "Hotel booking confirmation or host's details",
+    "Bank statement showing sufficient funds (minimum AED 5,000 recommended)",
+    "Travel insurance (recommended)",
+    "NOC from employer (if employed in India)"
+  ],
+  "steps": [
+    "Choose your application channel: airline, travel agency, or UAE sponsor",
+    "If applying through airline: book a flight on Emirates/Etihad/flydubai and apply via their website",
+    "If applying through agency: submit documents to an authorized UAE visa agency",
+    "Pay the visa fee online",
+    "Receive visa via email (usually 3-5 business days)",
+    "Print the visa approval or save electronically",
+    "Present at immigration upon arrival in UAE"
+  ],
+  "tips": [
+    "Emirates airline offers complimentary visa processing for business/first class passengers",
+    "If you have a valid US visa/Green Card, you can get 14-day visa on arrival",
+    "Overstaying your visa carries heavy fines (AED 200/day)",
+    "The 90-day multiple entry visa is better value if planning multiple visits",
+    "Apply through official channels only — many scam agencies operate online"
+  ],
+  "commonReasons": [
+    "Tourism (Dubai, Abu Dhabi, Sharjah)",
+    "Business and trade exhibitions",
+    "Transit (Dubai is a major global hub)",
+    "Visiting family (large Indian diaspora in UAE)",
+    "Shopping festivals and events",
+    "Medical tourism"
+  ],
+  "embassyInfo": {
+    "name": "Embassy of UAE in New Delhi",
+    "address": "EP-12, Chandragupta Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91-11-2467-1222",
+    "website": "https://www.mofaic.gov.ae/",
+    "vfsLocations": ["New Delhi", "Mumbai", "Chennai", "Hyderabad", "Kolkata", "Thiruvananthapuram", "Kochi"]
+  },
+  "faqs": [
+    {
+      "question": "Can I get a UAE visa on arrival as an Indian passport holder?",
+      "answer": "Only if you hold a valid US visa, US Green Card, UK residence visa, or EU residence permit. In that case, you can get a 14-day visa on arrival. Otherwise, you must obtain a visa before travel."
+    },
+    {
+      "question": "How much money do I need to show for a UAE tourist visa?",
+      "answer": "While there's no official minimum, having at least AED 5,000-10,000 (USD $1,360-$2,720) in your bank account for the last 3 months is recommended to demonstrate financial capability."
+    },
+    {
+      "question": "Can I extend my UAE tourist visa?",
+      "answer": "Yes, 30-day tourist visas can be extended once for an additional 30 days. You must apply for extension before the original visa expires through GDRFA or an authorized typing center."
+    },
+    {
+      "question": "Is Dubai transit visa free for Indians?",
+      "answer": "If you're transiting through Dubai for less than 8 hours and don't leave the airport, you don't need a visa. For longer transits or if you want to exit the airport, you'll need a transit visa or tourist visa."
+    }
+  ],
+  "relatedPairs": ["indian-to-saudi-arabia", "indian-to-qatar", "indian-to-oman", "indian-to-bahrain"],
+  "seo": {
+    "title": "India to UAE Visa 2026 | Dubai Visa for Indian Passport Holders",
+    "description": "Complete UAE visa guide for Indian citizens. Tourist visa requirements, fees, processing time, visa on arrival eligibility, and step-by-step application process for 2026.",
+    "keywords": ["india to uae visa", "dubai visa for indians", "uae tourist visa india", "indian passport dubai visa requirements"]
+  }
+}
